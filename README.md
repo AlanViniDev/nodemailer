@@ -23,9 +23,6 @@ npm start
 * Nodemailer
 * Skeleton.Css
 
-## Author
-
-**germancutraro**
 
 ## Why
 
