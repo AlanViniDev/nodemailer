@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "ejs": "^2.7.4",
     "express": "^4.17.1",
-    "nodemailer": "^4.7.0",
+    "nodemailer": "^6.4.16",
     "plain": "0.0.0",
     "sendmail": "^1.6.1"
   }
